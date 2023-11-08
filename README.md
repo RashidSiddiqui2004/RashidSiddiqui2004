@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_d-dmsMa9HKYbHbcywxtixXh5jI-OlUtRw&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Rashid Siddiqui</h1>
 <h3 align="center">Full-Stack Developer | Passionate about Machine Learning</h3>
 

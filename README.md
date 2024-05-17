@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **X Clone**
+- 🔭 I’m currently working on **Deep Learning Models**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DL**
 
 - 📫 How to reach me **siddiqui20042007@gmail.com**
 

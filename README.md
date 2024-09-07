@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_d-dmsMa9HKYbHbcywxtixXh5jI-OlUtRw&usqp=CAU" width="100% height="40%">
-</p>
+ 
 <h1 align="center">Hi 👋, I'm Rashid Siddiqui</h1>
 <h3 align="center">Full-Stack Developer | Competitive Coder | Passionate about Deep Learning</h3>
  

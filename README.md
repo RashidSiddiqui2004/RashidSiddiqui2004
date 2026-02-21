@@ -2,20 +2,21 @@
 <h1 align="center">Hi 👋, I'm Rashid Siddiqui</h1>
 <h3 align="center">Full-Stack Developer | Competitive Coder | Passionate about Deep Learning</h3>
  
-<p align="center">
-  <img alt="coding" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidsiddiqui2004&label=Profile%20views&color=0e75b6&style=flat" alt="rashidsiddiqui2004" /> </p>
+ 
+## 👨‍💻 About Me
+- Software Engineer passionate about building scalable systems and intelligent solutions.
+- Strong foundation in Data Structures & Algorithms.
+- Interested in Backend Engineering, Distributed Systems and Deep Learning.
+- Currently exploring system design and performance optimization.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 📈 Coding Practice
+- Consistent problem solver on LeetCode.
+- Strong grasp of DSA, OOPS, and Low-Level Design.
+- Focused on writing clean, optimized, and maintainable code.
 
-- 🔭 I’m currently working on **Deep Learning Models**
 
-- 🌱 I’m currently learning **DL**
-
-- 📫 How to reach me **siddiqui20042007@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
+📫 How to reach me **siddiqui20042007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
